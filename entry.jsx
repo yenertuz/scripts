@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import $ from 'jQuery';
-import environment from "./environment";
+// import $ from 'jquery';
+// import environment from "./environment";
 
 class Root extends React.Component {
 	render() {
