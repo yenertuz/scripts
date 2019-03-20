@@ -12,3 +12,8 @@
 * create a webpack.config file whose entry point is entry.jsx
 * create entry.jsx
 * try to git add, commit and push
+
+#### Requirements
+
+* linux like system that has basic bash binaries
+* nodejs, php, git, a color terminal, an internet connection
