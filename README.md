@@ -2,7 +2,7 @@
 
 #### Usage
 
-curl https://www.yenertuz.com/scripts/run.sh | bash
+`curl https://www.yenertuz.com/scripts/run.sh | bash`
 
 #### What it does
 
