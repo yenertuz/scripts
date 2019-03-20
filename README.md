@@ -1,12 +1,14 @@
 # scripts
 
-curl -s <source_url> | bash
+#### Usage
+
+curl https://www.yenertuz.com/scripts/run.sh | bash
 
 #### What it does
 
-* update, upgrade and make sure node is installed
 * npm init
 * add standard node dependencies
-* add webpack script to npm
+* add webpack and build scripts to npm
 * create a webpack.config file whose entry point is entry.jsx
-* create an environment.js
+* create entry.jsx
+* try to git add, commit and push
