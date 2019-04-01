@@ -8,6 +8,8 @@ curl https://www.yenertuz.com/scripts/webpack.config.js > webpack.config.js && \
 curl https://www.yenertuz.com/scripts/index.html > index.html && \
 curl https://www.yenertuz.com/scripts/entry.jsx > entry.jsx && \
 npm run build ;
+mkdir assets && \
+curl https://raw.githubusercontent.com/yenertuz/truth_or_dare/master/assets/logo_with_name.png > assets/yener_tuz_logo.png ;
 git add . && \
 git commit -m "create frontend project" && \
 git push ;
